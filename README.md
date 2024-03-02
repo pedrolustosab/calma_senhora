@@ -15,19 +15,12 @@ onde \( k \) é o número de chamadas e \( \lambda \) é a taxa média de chamad
 ## Probabilidades Específicas
 
 1. **Probabilidade de receber exatamente 100 chamadas em uma hora:**
-   $$ P(k=100) = \frac{e^{-100} \cdot 100^{100}}{100!} $$
-
 2. **Probabilidade de receber menos de 90 chamadas em uma hora:**
-   $$ P(k < 90) = \sum_{i=0}^{89} \frac{e^{-100} \cdot 100^i}{i!} $$
-
 3. **Probabilidade de receber mais de 120 chamadas em uma hora:**
-   $$ P(k > 120) = 1 - \sum_{i=0}^{120} \frac{e^{-100} \cdot 100^i}{i!} $$
 
 ## Probabilidade Condicional
 
-Vamos calcular a probabilidade de receber mais de 120 chamadas em uma hora, dado que já recebemos mais de 100 chamadas. A probabilidade condicional é dada por:
-
-$$ P(k > 120 | k > 100) = \frac{P(k > 120 \cap k > 100)}{P(k > 100)} $$
+Vamos calcular a probabilidade de receber mais de 120 chamadas em uma hora, dado que já recebemos mais de 100 chamadas. 
 
 ## Aproximação pela Normal
 
