@@ -35,4 +35,4 @@ Para verificar se a distribuição de Poisson pode ser aproximada pela distribui
 
 ## Conclusão
 
-A análise probabilística e estatística do número de chamadas recebidas em um call center pode fornecer insights importantes para otimizar a operação e melhorar a qualidade do atendimento. Neste artigo, aplicamos os conceitos de distribuição de Poisson, probabilidades específicas, probabilidade condicional e aproximação pela normal para analisar o desempenho de um call center que recebe em média 100 chamadas por hora.
+A análise probabilística e estatística do número de chamadas recebidas em um call center pode fornecer insights importantes para otimizar a operação e melhorar a qualidade do atendimento. Neste artigo, aplicamos os conceitos de distribuição de Poisson, probabilidades específicas, probabilidade condicional e aproximação pela normal para analisar o desempenho de um call center que recebe em média 100 chamadas por hora.  
