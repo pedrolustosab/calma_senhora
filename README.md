@@ -1,5 +1,7 @@
 # Calma senhora é só Poisson
 
+<img src="image.png" width=500>
+
 A eficiência operacional de um call center é fundamental para garantir um bom atendimento aos clientes. Neste repositório, vamos analisar o desempenho de um call center que recebe em média 100 chamadas por hora, utilizando conceitos de probabilidade e estatística.
 
 ## Distribuição de Poisson
